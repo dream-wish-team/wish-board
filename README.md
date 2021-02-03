@@ -9,5 +9,5 @@
 
 ### Notes
 - Link to the deploy: [wish board](https://rsclone.ru/)
-- If any problems encountered try to switch to `Firefox` or use test accaunt `user name - test, password - test`
+- If any problems encountered try to switch to `Firefox` or use test account `user name - test, password - test`
 - Back-end repo can be found here: `https://github.com/dream-wish-team/graphql-server-wishboard`
