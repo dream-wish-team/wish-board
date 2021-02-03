@@ -1,6 +1,6 @@
 # wish-board
 
-##Istallation guide:
+## Istallation guide:
 1. Clone this repo: git clone `https://github.com/dream-wish-team/wish-board.git`
 2. Go to the folder `wish-board`
 3. Run `npm install` in command line 
